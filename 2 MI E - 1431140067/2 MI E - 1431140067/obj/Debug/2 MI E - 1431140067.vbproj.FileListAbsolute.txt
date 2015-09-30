@@ -1,0 +1,10 @@
+c:\users\aldy\documents\visual studio 2012\Projects\2 MI E - 1431140067\2 MI E - 1431140067\bin\Debug\2 MI E - 1431140067.exe.config
+c:\users\aldy\documents\visual studio 2012\Projects\2 MI E - 1431140067\2 MI E - 1431140067\obj\Debug\_2_MI_E___1431140067.Form1.resources
+c:\users\aldy\documents\visual studio 2012\Projects\2 MI E - 1431140067\2 MI E - 1431140067\obj\Debug\_2_MI_E___1431140067.Resources.resources
+c:\users\aldy\documents\visual studio 2012\Projects\2 MI E - 1431140067\2 MI E - 1431140067\obj\Debug\2 MI E - 1431140067.vbproj.GenerateResource.Cache
+c:\users\aldy\documents\visual studio 2012\Projects\2 MI E - 1431140067\2 MI E - 1431140067\bin\Debug\2 MI E - 1431140067.exe
+c:\users\aldy\documents\visual studio 2012\Projects\2 MI E - 1431140067\2 MI E - 1431140067\bin\Debug\2 MI E - 1431140067.pdb
+c:\users\aldy\documents\visual studio 2012\Projects\2 MI E - 1431140067\2 MI E - 1431140067\bin\Debug\2 MI E - 1431140067.xml
+c:\users\aldy\documents\visual studio 2012\Projects\2 MI E - 1431140067\2 MI E - 1431140067\obj\Debug\2 MI E - 1431140067.exe
+c:\users\aldy\documents\visual studio 2012\Projects\2 MI E - 1431140067\2 MI E - 1431140067\obj\Debug\2 MI E - 1431140067.xml
+c:\users\aldy\documents\visual studio 2012\Projects\2 MI E - 1431140067\2 MI E - 1431140067\obj\Debug\2 MI E - 1431140067.pdb
